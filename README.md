@@ -1,4 +1,13 @@
 # english-hindi-nmt-translation
  
-FOLLOWING THE ARTICLE: https://towardsdatascience.com/english-to-hindi-neural-machine-translation-7cb3a426491f
-DATA: https://www.cfilt.iitb.ac.in/iitb_parallel/resource.php
+FOLLOWING THE ARTICLE: 
+|FILE NAME|ARTICLE BEING FOLLOWED|                                                                                        |
+|---|---|
+|older_way.py|https://github.com/shvmshukla/Machine-Translation-Hindi-to-english-/blob/master/Machine_translation_code.ipynb|
+|---|---|
+|main.py|https://github.com/PanjiyarEdition/English-To-Hindi-Translation-Using-NMT/blob/main/E_H_TRANSLATOR.ipynb|
+
+DATA: 
+- https://www.cfilt.iitb.ac.in/iitb_parallel/resource.php
+- https://github.com/shvmshukla/Machine-Translation-Hindi-to-english-/blob/master/DATASET.txt
+
