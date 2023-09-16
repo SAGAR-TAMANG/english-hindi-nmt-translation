@@ -5,7 +5,6 @@ FOLLOWING THE ARTICLE:
 |FILE NAME|ARTICLE BEING FOLLOWED|
 |---|---|
 |main-1.py|https://github.com/shvmshukla/Machine-Translation-Hindi-to-english-/blob/master/Machine_translation_code.ipynb|
-|---|---|
 |main-2.py & main.ipynb|https://github.com/PanjiyarEdition/English-To-Hindi-Translation-Using-NMT/blob/main/E_H_TRANSLATOR.ipynb|
 
 DATA: 
