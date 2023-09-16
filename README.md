@@ -2,7 +2,7 @@
  
 FOLLOWING THE ARTICLE: 
 
-|FILE NAME|ARTICLE BEING FOLLOWED|                                                                                |
+|FILE NAME|ARTICLE BEING FOLLOWED|
 |---|---|
 |main-1.py|https://github.com/shvmshukla/Machine-Translation-Hindi-to-english-/blob/master/Machine_translation_code.ipynb|
 |---|---|
