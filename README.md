@@ -10,4 +10,4 @@
 #### DATA
 - https://www.cfilt.iitb.ac.in/iitb_parallel/resource.php
 - https://github.com/shvmshukla/Machine-Translation-Hindi-to-english-/blob/master/DATASET.txt
-
+- https://www.kaggle.com/datasets/watts2/glove6b50dtxt
