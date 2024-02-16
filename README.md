@@ -1,4 +1,5 @@
 # english-hindi-nmt-translation
+This repository is originally created for a paper titled A Comparative Study of Model Variations: English-Nepali Language Pair
  
 ### FOLLOWING THE ARTICLE
 
